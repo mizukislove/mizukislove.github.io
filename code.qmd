@@ -1,0 +1,13 @@
+---
+title: "Code"
+draft: true
+---
+
+::: {.callout-note title="Draft page: not on the live site yet"}
+List R code you are happy to share, with one line on what each does and a link. Two kinds work well:
+
+- **A post with code and its output**, written in Quarto, so readers see the analysis and the plots together. Put it in `posts/` with the category `code` and link it here.
+- **A GitHub repository** for a larger project.
+
+Before posting, ask the PI for lab code or data, and check the course rules for class projects such as DATA-390. Then delete this note and the `draft: true` line.
+:::

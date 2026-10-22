@@ -1,0 +1,26 @@
+---
+title: "Publications and presentations"
+---
+
+## Peer-reviewed publications
+
+::: pub-list
+- Crole-Rees, C., Waddington, F., & **Liao, Q.** (in press). The construct validity of the Social Attitudes to Trauma-Informed Practice in Prisons (SATIPP) Scale. *Frontiers in Psychiatry*.
+- Chiu, W., Geng, J., & **Liao, Q.** (2022). Effects of antipsychotic drugs and antimanic drugs on bipolar disorder.\* *Highlights in Science, Engineering and Technology, 8*, 143–151. <https://doi.org/10.54097/hset.v8i.1121>
+:::
+
+## Manuscripts under review
+
+::: pub-list
+- Wang, Y., Li, G., **Liao, Q.**, Yin, Y., & Tawa, J. (under review). The Political Distress Scale (PoDS-16): Development and validation of a multidimensional measure of chronic distress amid sociopolitical adversity in emerging adults. *Assessment*.
+:::
+
+## Conference presentations
+
+::: pub-list
+- Wang, Y., Zhou, R. I., Li, Y. C., Li, L. L., Liu, X. L., **Liao, Q.**, Gruener, A., & Binder, K. (2026, April). Classroom text analytics for math anxiety: K–12 evidence from expressive writing.\* *NARST Annual International Conference*, Seattle, WA. Paper.
+- Wang, Y., Li, G., **Liao, Q.**, & Tawa, J. (2026, June). Development and preliminary validation of a political distress scale for young adults. *SPSSI Annual Conference*, New Orleans, LA. Poster.
+- **Liao, Q.**, Arredondo, A., Upton, K., & Moreno, R. (2026, May). Increasing concentrations of nocodazole decreases LLC-PK1 GFP-tubulin growth in endoplasmic reticulum. *Mount Holyoke College Department of Biological Sciences Symposium*, South Hadley, MA.
+:::
+
+\* All authors contributed equally.

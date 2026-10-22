@@ -1,0 +1,16 @@
+---
+title: "Writing"
+draft: true
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  feed: true
+---
+
+::: {.callout-note title="Draft page: not on the live site yet"}
+Your articles and personal thoughts go here. Each post is a folder in `posts/` with an `index.qmd` file; copy `_post-template/` to start one. Once you publish your first post, delete this note and the `draft: true` line at the top of this file.
+:::

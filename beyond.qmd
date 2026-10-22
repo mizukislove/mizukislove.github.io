@@ -1,0 +1,14 @@
+---
+title: "Beyond research"
+draft: true
+---
+
+::: {.callout-note title="Draft page: not on the live site yet"}
+The personal part, in your own words: what you care about outside the lab, what shaped how you see things, what you are reading or curious about. When it is ready, delete this note and the `draft: true` line.
+:::
+
+## Mentoring and community
+
+- **Peer mentor**, Muhexinli Peer Support Program (Jul–Dec 2025): weekly one-on-one support for international students.
+- **Volunteer**, Chengdu Psychiatric Rehabilitation Center (May–Sep 2025): taught English to adult members of a clubhouse-model rehabilitation program.
+- **Teaching assistant and intern**, Pioneer Education (May–Sep 2025): classroom support in a special education setting.

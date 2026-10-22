@@ -1,0 +1,56 @@
+---
+title: "Qinglang (Violet) Liao"
+subtitle: "Psychology and Neuroscience · Mount Holyoke College"
+image: images/avatar.svg
+image-alt: "Placeholder with the initials QL"
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: "liao224q [at] mtholyoke [dot] edu"
+    - icon: github
+      text: GitHub
+      href: https://github.com/mizukislove
+    # Add these once you have them:
+    # - icon: file-earmark-person
+    #   text: CV (PDF)
+    #   href: files/cv.pdf
+    # - text: ORCID
+    #   href: https://orcid.org/0000-0000-0000-0000
+    # - icon: mortarboard
+    #   text: Google Scholar
+    #   href: https://scholar.google.com/citations?user=XXXX
+---
+
+I am a senior at Mount Holyoke College, double majoring in Psychology and in Neuroscience and Behavior, and applying to graduate programs for fall 2027.
+
+<!--
+VIOLET TO WRITE (your own words): a short paragraph or two on who you are,
+what you study and why. This is the main "more than my CV" part of the site.
+Delete this comment when you add it.
+-->
+
+## Research areas
+
+- Attitudes toward AI and how they form and shift
+- How people judge statistical claims and misinformation
+- Measuring psychological constructs (psychometrics, latent variable models)
+
+## News
+
+October 2026
+: Paper on the SATIPP scale accepted in *Frontiers in Psychiatry*.
+
+August 2026
+: Summer school at Peking University: Health Communication Research.
+
+June 2026
+: Poster on the Political Distress Scale at the SPSSI Annual Conference, New Orleans.
+
+April 2026
+: Paper on classroom text analytics for math anxiety at the NARST Annual International Conference, Seattle.
+
+Fall 2025
+: Exchange semester at University College London.

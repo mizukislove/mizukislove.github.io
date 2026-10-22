@@ -1,0 +1,10 @@
+/*-- scss:defaults --*/
+$primary: #7fb8bd;
+$link-color: #7fb8bd;
+$font-family-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Noto Sans SC", sans-serif;
+$headings-font-weight: 600;
+$navbar-bg: #1f3d40;
+
+/*-- scss:rules --*/
+.project-meta { color: $text-muted; font-size: 0.95rem; margin-top: -0.5rem; margin-bottom: 0.75rem; }
+.pub-list li { margin-bottom: 0.6rem; }

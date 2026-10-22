@@ -1,0 +1,21 @@
+---
+title: "Title of your post"
+description: "One sentence that appears in the post list."
+date: "2026-11-01"
+categories: [thoughts]
+draft: true
+---
+
+Write here. Normal Markdown works: *italics*, **bold**, [links](https://example.org), lists and headings.
+
+## A section heading
+
+For a post with R code, add a chunk like the one below. When you click Render in RStudio, the code runs and its output and plots appear in the post. Set the category to `code`.
+
+```{r}
+#| eval: false
+summary(cars)
+plot(cars)
+```
+
+Delete `#| eval: false` to run the chunk for real, and delete `draft: true` above when the post is ready.

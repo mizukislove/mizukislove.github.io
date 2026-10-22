@@ -1,0 +1,40 @@
+---
+title: "Research"
+---
+
+<!--
+These blocks are drafted from your CV. Reword anything you like; they are
+yours to change. Add DATA-390 here once the analysis is finished.
+-->
+
+## Statistical literacy and misinformation
+
+::: project-meta
+Independent study · Mount Holyoke College · Supervisor: Prof. John Tawa · Sep 2026–present
+:::
+
+Does knowing statistics help people tell sound statistical claims from flawed ones? And does partisan identity make people more willing to accept claims that suit their side? I am designing a preregistered online experiment (planned *N* ≈ 400) that uses signal detection theory to separate these two things: how well people discern sound from flawed claims, and how biased they are toward accepting congenial ones. Preregistration on OSF is planned for December 2026.
+
+## SATIPP: public attitudes to trauma-informed practice in prisons
+
+::: project-meta
+Research assistant · University College London · Supervisor: Prof. Clare Crole-Rees · Oct 2025–present
+:::
+
+A new scale measuring how the UK public views trauma-informed practice in prisons. I built and ran the data collection through Qualtrics and Prolific (UK quota sample, *N* = 916), managed the shared dataset, and carried out the psychometric validation in R: EFA, CFA, reliability, discriminant validity and measurement invariance across gender. The paper is in press at *Frontiers in Psychiatry*.
+
+## PoDS-16: measuring political distress
+
+::: project-meta
+Research assistant · Mount Holyoke College · Supervisor: Prof. John Tawa · Feb 2026–present
+:::
+
+A 16-item scale of chronic distress amid sociopolitical adversity in emerging adults. I ran factor-analytic models (CFA, ESEM and bifactor models) in R and Mplus across two independent samples (*N* = 381 and *N* = 428), and presented the project's four mixed-methods studies as a poster at SPSSI 2026. The manuscript is under review at *Assessment*.
+
+## Math anxiety in Chinese and US students
+
+::: project-meta
+Research assistant · Mount Holyoke College · Supervisor: Prof. Katherine Binder · May 2025–present
+:::
+
+How anxiety about mathematics develops from school to college. I did thematic analysis of interviews with Chinese K–12 students, Chinese college students and US college students (*N* = 33), processed survey data (*N* ≈ 300), and transcribed and coded students' expressive writing for a text-analytics study presented at NARST 2026.

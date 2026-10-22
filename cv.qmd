@@ -1,0 +1,58 @@
+---
+title: "CV"
+---
+
+<!-- Once you add files/cv.pdf (without your phone number), uncomment the next line. -->
+<!-- [Download the full CV (PDF)](files/cv.pdf){.btn .btn-primary} -->
+
+## Education
+
+**Mount Holyoke College**, South Hadley, MA
+: B.A. expected May 2027. Double major in Psychology and in Neuroscience and Behavior.
+
+**University College London**, London, UK
+: Exchange program, Sep–Dec 2025.
+
+**Peking University**, Beijing, China
+: Summer school, Jul–Aug 2026. Health Communication Research: Theories and Methodologies.
+
+## Research experience
+
+**Independent study**, Department of Psychology, Mount Holyoke College
+: Sep 2026–present. Statistical Literacy and Misinformation Project. Supervisor: Prof. John Tawa.
+
+**Research assistant**, Department of Psychology, Mount Holyoke College
+: Feb 2026–present. PoDS-16 Project. Supervisor: Prof. John Tawa. Reese Funding recipient.
+
+**Research assistant**, Department of Psychology, University College London
+: Oct 2025–present. SATIPP Project. Supervisor: Prof. Clare Crole-Rees.
+
+**Research assistant**, Department of Psychology, Mount Holyoke College
+: May 2025–present. Math Anxiety Project. Supervisor: Prof. Katherine Binder.
+
+More detail on each project is on the [Research](research.qmd) page.
+
+## Other experience
+
+**Teaching assistant and intern**, Pioneer Education
+: May–Sep 2025. Lynk Funding recipient.
+
+**Peer mentor**, Muhexinli Peer Support Program
+: Jul–Dec 2025.
+
+**Volunteer**, Chengdu Psychiatric Rehabilitation Center, Chengdu, China
+: May–Sep 2025.
+
+## Skills
+
+Statistics
+: EFA, CFA, bifactor modeling, ESEM, measurement invariance (MGCFA), path analysis, multiple imputation, Poisson regression.
+
+Software
+: R, Mplus, Stata, SPSS, SPSS Amos, Qualtrics, Prolific, ImageJ, Zotero.
+
+Methods
+: Survey design and implementation, psychometric development, quantitative and qualitative research (thematic analysis), data management.
+
+Laboratory
+: PCR, gel electrophoresis, immunostaining, optical and fluorescence microscopy, EEG.
