@@ -1,6 +1,6 @@
 # mizukislove.github.io
 
-Personal website of Qinglang (Violet) Liao, built with [Quarto](https://quarto.org). Every push to `main` rebuilds and publishes the site automatically (see `.github/workflows/publish.yml`).
+Personal website of Qinglang Liao, built with [Quarto](https://quarto.org). Every push to `main` rebuilds and publishes the site automatically (see `.github/workflows/publish.yml`).
 
 ## Where things are
 
